@@ -10,9 +10,9 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-* [Yes] User can **view a list of todo items**
-* [Yes] User can **successfully add and remove items** from the todo list
-* [Yes] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [.] User can **view a list of todo items**
+* [.] User can **successfully add and remove items** from the todo list
+* [.] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **stretch** features are implemented:
 
@@ -21,6 +21,7 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [.] Added customisation to the app for fonts and background
 
 ## Video Walkthrough
 
