@@ -37,8 +37,8 @@ The relative layout did not support random positioning of the tiles. Should stic
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright 2019 Paridhi Khaitan
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
